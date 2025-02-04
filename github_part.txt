@@ -1,0 +1,1 @@
+Version control allows multiple people to colloborate together on projects
